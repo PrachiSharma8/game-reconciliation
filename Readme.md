@@ -48,4 +48,22 @@ game-reconciliation/
 │
 ├── server.js
 ├── package.json
-└── README.md 
+└── README.md
+
+## How to Run
+
+### Install dependencies
+
+npm install
+
+### Run tests
+
+npm test
+
+### Start server
+
+npm start
+
+The server runs at:
+
+http://localhost:3000 
